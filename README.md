@@ -1,1 +1,1 @@
-## Pratice to use github token to push this repo 
+## practice to use github token to push this repo 
